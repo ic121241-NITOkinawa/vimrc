@@ -14,7 +14,7 @@ set listchars=tab:»-,trail:-,eol:↲,extends:»,precedes:«,nbsp:%
 inoremap { {}<LEFT>
 inoremap {<ENTER> {}<LEFT><CR><ESC><S-o><SPACE><SPACE><SPACE><SPACE>
 inoremap ( ()<LEFT>
-inoremap (<ENTER> ()<LEFT><CR><ESC><S-o><TAB>
+inoremap (<ENTER> ()<LEFT><CR><ESC><S-o><SPACE><SPACE><SPACE><SPACE>
 inoremap [ []<LEFT>
 inoremap " ""<LEFT>
 inoremap ' ''<LEFT>
